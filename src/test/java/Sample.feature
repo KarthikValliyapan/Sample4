@@ -1,4 +1,4 @@
-@tag1 @smoke @regression @sanity @test1 @test2
+@tag1 @smoke @regression @sanity @test1 @test2 @priya
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
