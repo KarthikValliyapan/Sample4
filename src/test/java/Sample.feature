@@ -1,4 +1,4 @@
-@tag1 @smoke
+@tag1 @smoke @sanity
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
