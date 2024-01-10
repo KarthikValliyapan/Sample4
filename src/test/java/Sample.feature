@@ -1,4 +1,4 @@
-@tag1 @clear
+@tag1 @stashdemo
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
@@ -7,3 +7,4 @@
     And yet another action
     Then I validate the outcomes
     And check more outcomes
+vvvvvvvvvvvvvvv
