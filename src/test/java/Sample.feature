@@ -1,4 +1,4 @@
-@tag1 @priyadonechange @karthikdonechange @test
+@tag1 @priyadonechange @karthikdonechange @newchange
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
